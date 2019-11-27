@@ -1,0 +1,13 @@
+ body{
+        height: 100%;
+        width: 100%;
+        background-color: #add8e6;
+        background-position: center;
+        background-size: cover;
+        position: absolute;
+    }
+
+h2{
+    margin-bottom:25px ;
+}
+

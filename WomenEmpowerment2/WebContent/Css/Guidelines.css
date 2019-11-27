@@ -1,0 +1,53 @@
+
+@charset "ISO-8859-1";
+
+
+body{
+	height: 100%;
+	width: 100%;
+	background-color: #add8e6;
+	background-position: center;
+	background-size: cover;
+	position: absolute;
+}
+
+
+.topnav1{
+	
+	background-color: #333;
+    overflow: hidden;
+}
+
+
+
+ .header {
+	font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    text-align: center;
+    border: 2px solid black;
+    padding: 10px 30px;
+    
+  } 
+
+  .topnav1 a{
+    float: left;
+   	color: #f2f2f2;
+   	text-align: center;
+  	text-decoration: none;
+  	font-size: 15px;
+  }
+  
+  
+  .topnav2 {
+  background-color: #333;
+  overflow: hidden;
+}
+  
+.topnav2 a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 10px 16px;
+  text-decoration: none;
+  font-size: 15px;
+}
